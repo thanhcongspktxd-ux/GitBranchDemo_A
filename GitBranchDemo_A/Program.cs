@@ -1,2 +1,2 @@
-﻿Console.WriteLine("Hello");
-Console.ReadKey();
+﻿Console.WriteLine("Hello A");
+Console.WriteLine("Hello B");
